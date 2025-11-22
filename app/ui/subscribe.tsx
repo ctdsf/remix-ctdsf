@@ -94,7 +94,7 @@ const SubscribeInput = React.forwardRef<
 >(
   (
     {
-      children,
+      codytradedev,
       className = "w-full sm:w-auto sm:flex-1 dark:placeholder-gray-500",
       ...props
     },
